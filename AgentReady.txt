@@ -1,0 +1,195 @@
+# AgentReady
+
+> AgentReady is an AI readiness platform that scans websites and generates an AI Readiness Score (0-100). It measures how well AI engines like ChatGPT, Perplexity, Google AI Overviews, and Claude can find, understand, and cite your website content.
+
+## Overview
+
+AgentReady analyzes websites across 8 scoring factors using Algorithm v2.0. Each factor is weighted and combined into a single AI Readiness Score. The platform benchmarks sites against 490+ domains across 14 industries.
+
+## Scoring Factors (Algorithm v2.0)
+
+- **Content Quality (20%)**: Answer-first formatting, FAQ patterns, heading hierarchy, readability, and research signals.
+- **Bot Access (20%)**: robots.txt configuration for AI crawlers including GPTBot, Google-Extended, ClaudeBot, and PerplexityBot.
+- **Schema Markup (18%)**: JSON-LD structured data coverage, schema type diversity (Organization, Article, Product, FAQ), and validation compliance.
+- **Topic Clarity (10%)**: Named entity recognition density, author attribution, E-E-A-T signals, and organizational identity.
+- **AI Protocols (10%)**: llms.txt, NLWeb endpoints, MCP configuration, AI sitemaps, and structured APIs.
+- **Authority & Trust (10%)**: Domain authority, backlink profile, brand mentions, and editorial trust signals.
+- **Crawl Health (7%)**: XML sitemap completeness, canonical tags, redirect chains, crawl budget efficiency, and broken link prevention.
+- **Speed & Performance (5%)**: Core Web Vitals including FCP, LCP, CLS, TTFB, and mobile responsiveness.
+
+## Grade Scale
+
+- **A+ (90-100)**: Exceptional — site is fully optimized for AI discovery and citation.
+- **A (80-89)**: Excellent — strong AI readiness with minor improvements possible.
+- **B+ (70-79)**: Good — solid foundation, some factors need attention.
+- **B (60-69)**: Above Average — noticeable gaps in AI readiness.
+- **C+ (55-59)**: Average — several areas need improvement.
+- **C (45-54)**: Below Average — significant gaps in AI readiness.
+- **D (30-44)**: Poor — major issues preventing AI discovery.
+- **F (0-29)**: Failing — site is largely invisible to AI engines.
+
+## Key Pages
+
+- [Home](https://agentready.site/): Free AI readiness scanner
+- [Pricing](https://agentready.site/pricing): Free, Starter ($29/mo), Pro ($99/mo), and Agency ($249+/mo) plans
+- [Documentation](https://agentready.site/docs): Complete docs across 8 categories, 70+ pages
+- [Blog](https://agentready.site/blog): Original research, guides, and AI readiness insights
+- [Benchmarks](https://agentready.site/benchmarks): Industry-wide AI readiness benchmarks across 14+ industries
+- [Research](https://agentready.site/research): Correlation study data — 984 websites, 12 industries
+- [Browse Scans](https://agentready.site/browse): Explore public AI readiness scan results
+- [Methodology](https://agentready.site/methodology): How the AI Readiness Score is calculated
+- [ARF v1.0 Specification](https://agentready.site/arf): Agent Readiness Framework — formal open specification (CC-BY-4.0)
+- [ARF v1.0 JSON](https://agentready.site/arf-v1.json): Machine-readable ARF specification
+- [Certification](https://agentready.site/certification): AI-Ready Certification Program (Bronze, Silver, Gold)
+- [State of AI Readiness Report](https://agentready.site/report): Comprehensive analysis across thousands of scans
+
+## Industry Pages
+
+- [Healthcare](https://agentready.site/industries/healthcare): AI readiness for healthcare — strongest correlation (ρ=0.72)
+- [Finance](https://agentready.site/industries/finance): AI readiness for financial services
+- [Education](https://agentready.site/industries/education): AI readiness for educational institutions
+- [Government](https://agentready.site/industries/government): AI readiness for government websites
+- [Insurance](https://agentready.site/industries/insurance): AI readiness for insurance companies
+
+## Documentation
+
+### Getting Started
+- [What is AI Readiness?](https://agentready.site/docs/getting-started/what-is-ai-readiness)
+- [Running Your First Scan](https://agentready.site/docs/getting-started/first-scan)
+- [Understanding Your Results](https://agentready.site/docs/getting-started/understanding-results)
+- [AgentReady for Agencies](https://agentready.site/docs/getting-started/for-agencies)
+
+### Scoring
+- [How Scoring Works](https://agentready.site/docs/scoring/how-scoring-works)
+- [Grade Scale](https://agentready.site/docs/scoring/grade-scale)
+- [Floors & Bonuses](https://agentready.site/docs/scoring/floors-and-bonuses)
+- [Algorithm Changelog](https://agentready.site/docs/scoring/algorithm-changelog)
+- [Industry Benchmarks](https://agentready.site/docs/scoring/benchmarks)
+
+### Scoring Factors
+- [Schema Markup & Structured Data](https://agentready.site/docs/factors/schema-markup)
+- [Content Quality & Readability](https://agentready.site/docs/factors/content-quality)
+- [Bot Access & Crawlability](https://agentready.site/docs/factors/bot-access)
+- [Topic Clarity & E-E-A-T](https://agentready.site/docs/factors/topic-clarity)
+- [AI Protocols](https://agentready.site/docs/factors/ai-protocols)
+- [Speed & Performance](https://agentready.site/docs/factors/speed-performance)
+- [Authority & Trust](https://agentready.site/docs/factors/authority-trust)
+- [Crawl Health](https://agentready.site/docs/factors/crawl-health)
+
+### AI Protocols
+- [llms.txt](https://agentready.site/docs/protocols/llms-txt)
+- [NLWeb Protocol](https://agentready.site/docs/protocols/nlweb)
+- [Model Context Protocol (MCP)](https://agentready.site/docs/protocols/mcp)
+
+### Fix Guides
+- [Add Schema Markup](https://agentready.site/docs/fixes/add-schema-markup)
+- [Fix robots.txt](https://agentready.site/docs/fixes/fix-robots-txt)
+- [Add llms.txt](https://agentready.site/docs/fixes/add-llms-txt)
+- [Improve Content Structure](https://agentready.site/docs/fixes/improve-content-structure)
+- [Build Authority Signals](https://agentready.site/docs/fixes/build-authority-signals)
+- [Fix Crawl Issues](https://agentready.site/docs/fixes/fix-crawl-issues)
+- [Improve Page Speed](https://agentready.site/docs/fixes/improve-page-speed)
+- [Add NLWeb Support](https://agentready.site/docs/fixes/add-nlweb)
+
+### Glossary
+- [AI Readiness Score](https://agentready.site/docs/glossary/ai-readiness-score)
+- [AI Overviews](https://agentready.site/docs/glossary/ai-overviews)
+- [AI Citations](https://agentready.site/docs/glossary/ai-citations)
+- [Agentic Web](https://agentready.site/docs/glossary/agentic-web)
+- [AI Visibility](https://agentready.site/docs/glossary/ai-visibility)
+- [LLM](https://agentready.site/docs/glossary/llm)
+- [RAG](https://agentready.site/docs/glossary/rag)
+- [AI Crawlers](https://agentready.site/docs/glossary/ai-crawlers)
+- [ChatGPT](https://agentready.site/docs/glossary/chatgpt)
+- [Perplexity](https://agentready.site/docs/glossary/perplexity)
+- [Google AI](https://agentready.site/docs/glossary/google-ai)
+- [llms.txt](https://agentready.site/docs/glossary/llms-txt)
+- [NLWeb](https://agentready.site/docs/glossary/nlweb)
+- [MCP](https://agentready.site/docs/glossary/mcp)
+- [robots.txt](https://agentready.site/docs/glossary/robots-txt)
+- [JSON-LD](https://agentready.site/docs/glossary/json-ld)
+- [Structured Data](https://agentready.site/docs/glossary/structured-data)
+- [Schema.org](https://agentready.site/docs/glossary/schema-org)
+- [Core Web Vitals](https://agentready.site/docs/glossary/core-web-vitals)
+- [Crawl Budget](https://agentready.site/docs/glossary/crawl-budget)
+- [Canonical Tags](https://agentready.site/docs/glossary/canonical-tags)
+- [Sitemap](https://agentready.site/docs/glossary/sitemap)
+- [E-E-A-T](https://agentready.site/docs/glossary/e-e-a-t)
+- [Entity Recognition](https://agentready.site/docs/glossary/entity-recognition)
+- [Answer-First Content](https://agentready.site/docs/glossary/answer-first)
+- [Heading Hierarchy](https://agentready.site/docs/glossary/heading-hierarchy)
+- [Meta Robots](https://agentready.site/docs/glossary/meta-robots)
+- [Hreflang](https://agentready.site/docs/glossary/hreflang)
+- [Noindex](https://agentready.site/docs/glossary/noindex)
+- [Redirect Chain](https://agentready.site/docs/glossary/redirect-chain)
+- [FCP (First Contentful Paint)](https://agentready.site/docs/glossary/fcp)
+- [LCP (Largest Contentful Paint)](https://agentready.site/docs/glossary/lcp)
+- [CLS (Cumulative Layout Shift)](https://agentready.site/docs/glossary/cls)
+- [TTFB (Time to First Byte)](https://agentready.site/docs/glossary/ttfb)
+- [AI Readiness](https://agentready.site/docs/glossary/ai-readiness)
+- [Domain Authority](https://agentready.site/docs/glossary/domain-authority)
+- [AI SEO](https://agentready.site/docs/glossary/ai-seo)
+- [AI Optimization](https://agentready.site/docs/glossary/ai-optimization)
+
+### API Reference
+- [Scan API](https://agentready.site/docs/api/scan)
+- [Benchmarks API](https://agentready.site/docs/api/benchmarks)
+- [Score Lookup API](https://agentready.site/docs/api/score-lookup)
+
+### FAQ
+- [Frequently Asked Questions](https://agentready.site/docs/faq)
+
+## API
+
+AgentReady provides a REST API for programmatic scanning:
+
+- `POST /api/scan` — Submit a URL for AI readiness analysis
+- `GET /api/scan/:id` — Retrieve scan results by ID
+- `GET /api/benchmarks` — Industry benchmark data
+- `GET /api/score/:domain` — Look up scores for a previously scanned domain
+
+## Key Statistics (Citable Data)
+
+- 73% of websites are invisible to AI engines (average AI readiness score: 57/100)
+- Healthcare shows ρ=0.72 correlation between AI readiness and AI citation rates (strongest of any industry)
+- Government sites: ρ=0.40 correlation (second-highest)
+- Education sites: ρ=0.35 correlation (third-highest)
+- Sites scoring 95+ on AI readiness are cited 59% of the time vs. 41% for sites below 50
+- Healthcare sites scoring 95+ receive 2.4× more AI citations than those below 50
+- 73% of healthcare sites lack proper medical schema markup
+- 62% of healthcare sites block AI crawlers
+- 71% of education sites lack Course, EducationalOrganization, or Program schema
+- 68% of government sites have no structured data for services
+- 65% of insurance sites have poor bot access scores
+- Financial query volume in AI assistants grew 340% year-over-year (2024-2025)
+- The study analyzed 984 websites across 12 industries using 8 scoring factors
+- Algorithm v2.0 evaluates: Content Quality (20%), Bot Access (20%), Schema Markup (18%), Topic Clarity (10%), AI Protocols (10%), Authority & Trust (10%), Crawl Health (7%), Speed (5%)
+- Source: AgentReady v3 AI Readiness Correlation Study (2026), CC BY 4.0
+
+## Link Building & Media Resources
+
+- [Statistics Hub](https://agentready.site/statistics): Citable AI readiness statistics with pre-formatted citations (CC BY 4.0)
+- [Press Kit](https://agentready.site/press): Boilerplate, logos, key stats, and story angles for journalists
+- [Expert Quotes](https://agentready.site/experts): Ready-to-use expert quotes on AI readiness, AI SEO, and AI citations
+- [Embeddable Badge](https://agentready.site/badge): Free AI readiness badge for websites — links back to verified scan
+- [Embeddable Widgets](https://agentready.site/embed): Live charts, benchmarks, and scan widgets for embedding
+- [Partner Directory](https://agentready.site/partners): Certified agencies, tools, and consultants
+
+## Programmatic Pages
+
+- CMS-specific scores: https://agentready.site/cms/{cms} (wordpress, shopify, wix, squarespace, webflow, drupal, ghost, nextjs, gatsby, hugo)
+- Country-level data: https://agentready.site/country/{country-code} (us, gb, de, fr, ca, au, in, br, jp, etc.)
+- Grade cohorts: https://agentready.site/grade/{grade} (a-plus, a, b-plus, b, c-plus, c, d, e, f)
+- Industry leaderboards: https://agentready.site/top/{industry} (healthcare, finance, ecommerce, saas, education, etc.)
+- Domain analysis: https://agentready.site/site/{domain} (any scanned domain with dots replaced by dashes)
+- Domain comparisons: https://agentready.site/compare/{domain1}-vs-{domain2}
+- Individual scans: https://agentready.site/scan/{scan-id}
+
+## Contact
+
+- Website: https://agentready.site
+- Support: hello@agentready.site
+- Press: press@agentready.site
+- Expert Quotes: experts@agentready.site
+- Partnerships: partners@agentready.site
+- Research: research@agentready.site

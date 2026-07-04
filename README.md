@@ -6,6 +6,7 @@ Collection of various llms.txt
 |  | Activepieces | [https://activepieces.com/](https://activepieces.com/) | [https://www.activepieces.com/docs/llms.txt](https://www.activepieces.com/docs/llms.txt) | 3747 | [https://www.activepieces.com/docs/llms-full.txt](https://www.activepieces.com/docs/llms-full.txt) | 45434 |
 |  | AI Squared | [https://squared.ai/](https://squared.ai/) | [https://docs.squared.ai/llms.txt](https://docs.squared.ai/llms.txt) | 3674 | [https://docs.squared.ai/llms-full.txt](https://docs.squared.ai/llms-full.txt) | 71391 |
 |  | Answer.AI | [https://answer.ai/](https://answer.ai/) | [https://www.answer.ai/llms.txt](https://www.answer.ai/llms.txt) | 180 |  |  |
+|  | AnswerLens | [https://app.sfdj.net/](https://app.sfdj.net/) | [https://app.sfdj.net/llms.txt](https://app.sfdj.net/llms.txt) | 295 |  |  |
 |  | Anthropic | [https://anthropic.com/](https://anthropic.com/) | [https://docs.anthropic.com/llms.txt](https://docs.anthropic.com/llms.txt) | 90337 | [https://docs.anthropic.com/llms-full.txt](https://docs.anthropic.com/llms-full.txt) | 315591 |
 |  | Aporia | [https://aporia.com/](https://aporia.com/) | [https://gr-docs.aporia.com/llms.txt](https://gr-docs.aporia.com/llms.txt) | 2764 |  |  |
 |  | Aptible | [https://aptible.com/](https://aptible.com/) | [https://www.aptible.com/docs/llms.txt](https://www.aptible.com/docs/llms.txt) | 10914 | [https://www.aptible.com/docs/llms-full.txt](https://www.aptible.com/docs/llms-full.txt) | 295268 |

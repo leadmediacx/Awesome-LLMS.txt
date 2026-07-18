@@ -76,6 +76,7 @@ Collection of various llms.txt
 |  | Salesbricks | [https://salesbricks.com/](https://salesbricks.com/) | [https://docs.salesbricks.com/llms.txt](https://docs.salesbricks.com/llms.txt) | 1516 | [https://docs.salesbricks.com/llms-full.txt](https://docs.salesbricks.com/llms-full.txt) | 51807 |
 |  | Sardine | [https://sardine.ai/](https://sardine.ai/) | [https://docs.sardine.ai/llms.txt](https://docs.sardine.ai/llms.txt) | 523 | [https://docs.sardine.ai/llms-full.txt](https://docs.sardine.ai/llms-full.txt) | 7795 |
 |  | Smartcar | [https://smartcar.com/](https://smartcar.com/) | [https://smartcar.com/docs/llms.txt](https://smartcar.com/docs/llms.txt) | 5720 | [https://smartcar.com/docs/llms-full.txt](https://smartcar.com/docs/llms-full.txt) | 114769 |
+|  | smry | [https://smry.ai/](https://smry.ai/) | [https://smry.ai/llms.txt](https://smry.ai/llms.txt) | 703 | [https://smry.ai/llms-full.txt](https://smry.ai/llms-full.txt) | 2573 |
 |  | Solid | [https://solidfi.com/](https://solidfi.com/) | [https://docs.solidfi.com/llms.txt](https://docs.solidfi.com/llms.txt) | 7206 |  |  |
 |  | Stedi | [https://stedi.com/](https://stedi.com/) | [https://www.stedi.com/docs/llms.txt](https://www.stedi.com/docs/llms.txt) | 5297 | [https://www.stedi.com/docs/llms-full.txt](https://www.stedi.com/docs/llms-full.txt) | 224537 |
 |  | Svelte | [https://svelte.dev/](https://svelte.dev/) | [https://svelte.dev/llms.txt](https://svelte.dev/llms.txt) | 281 | [https://svelte.dev/llms-full.txt](https://svelte.dev/llms-full.txt) | 217529 |

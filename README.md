@@ -77,6 +77,7 @@ Collection of various llms.txt
 |  | Sardine | [https://sardine.ai/](https://sardine.ai/) | [https://docs.sardine.ai/llms.txt](https://docs.sardine.ai/llms.txt) | 523 | [https://docs.sardine.ai/llms-full.txt](https://docs.sardine.ai/llms-full.txt) | 7795 |
 |  | Smartcar | [https://smartcar.com/](https://smartcar.com/) | [https://smartcar.com/docs/llms.txt](https://smartcar.com/docs/llms.txt) | 5720 | [https://smartcar.com/docs/llms-full.txt](https://smartcar.com/docs/llms-full.txt) | 114769 |
 |  | Solid | [https://solidfi.com/](https://solidfi.com/) | [https://docs.solidfi.com/llms.txt](https://docs.solidfi.com/llms.txt) | 7206 |  |  |
+|  | StagePeek | [https://stagepeek.live/](https://stagepeek.live/) | [https://stagepeek.live/llms.txt](https://stagepeek.live/llms.txt) | 4771 | [https://stagepeek.live/llms-full.txt](https://stagepeek.live/llms-full.txt) | 21567 |
 |  | Stedi | [https://stedi.com/](https://stedi.com/) | [https://www.stedi.com/docs/llms.txt](https://www.stedi.com/docs/llms.txt) | 5297 | [https://www.stedi.com/docs/llms-full.txt](https://www.stedi.com/docs/llms-full.txt) | 224537 |
 |  | Svelte | [https://svelte.dev/](https://svelte.dev/) | [https://svelte.dev/llms.txt](https://svelte.dev/llms.txt) | 281 | [https://svelte.dev/llms-full.txt](https://svelte.dev/llms-full.txt) | 217529 |
 |  | Tavus | [https://www.tavus.io/](https://www.tavus.io/) | [https://docs.tavus.io/llms.txt](https://docs.tavus.io/llms.txt) | 3771 | [https://docs.tavus.io/llms-full.txt](https://docs.tavus.io/llms-full.txt) | 32914 |
